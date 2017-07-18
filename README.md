@@ -1,2 +1,2 @@
 
-Some test of jvm.
+Some tests of jvm.
